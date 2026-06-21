@@ -26,3 +26,8 @@ def test_criar_tarefa_com_entrada_invalida(sistema):
 
 
 # Dê nomes claros aos testes e justifique tecnicamente qualquer comportamento que pareça arriscado.
+
+
+"""
+Passo 3
+"""
